@@ -1,0 +1,20 @@
+{
+  "name": "@svg-maps/europe",
+  "version": "1.0.0",
+  "description": "Map of Europe",
+  "main": "index.js",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/europe"
+  },
+  "keywords": [
+	"svg",
+	"map",
+	"europe"
+  ],
+  "author": "Didier Mérat <[your email]>",
+  "publishConfig": {
+	"access": "public"
+  },
+  "license": "[License of the map]"
+}
